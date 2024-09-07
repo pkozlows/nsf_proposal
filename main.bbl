@@ -1,0 +1,52 @@
+\begin{thebibliography}{5}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Kozlowski(2021)]{kozlowski_elucidating_2021}
+Patryk Kozlowski.
+\newblock Elucidating {Catalysis} with the “{Gold} {Standard}” of {Quantum}
+  {Chemistry}.
+\newblock \emph{CURJ}, June 2021.
+\newblock URL
+  \url{https://curj.caltech.edu/2021/06/29/elucidating-catalysis-with-the-gold-standard-of-quantum-chemistry/}.
+
+\bibitem[Kutepov and Kotliar(2017)]{kutepov_one-electron_2017}
+A.~L. Kutepov and G.~Kotliar.
+\newblock One-electron spectra and susceptibilities of the three-dimensional
+  electron gas from self-consistent solutions of {Hedin}'s equations.
+\newblock \emph{Physical Review B}, 96\penalty0 (3):\penalty0 035108, July
+  2017.
+\newblock \doi{10.1103/PhysRevB.96.035108}.
+\newblock URL \url{https://link.aps.org/doi/10.1103/PhysRevB.96.035108}.
+\newblock Publisher: American Physical Society.
+
+\bibitem[Zhu(2022)]{zhu_combinatorial_2022}
+Yuanran Zhu.
+\newblock Combinatorial {Mori}-{Zwanzig} {Theory}, November 2022.
+\newblock URL \url{http://arxiv.org/abs/2210.08395}.
+\newblock arXiv:2210.08395 [cond-mat, physics:math-ph].
+
+\bibitem[Holm and von Barth(1998)]{holm_fully_1998}
+B.~Holm and U.~von Barth.
+\newblock Fully self-consistent \${\textbackslash}mathrm\{{GW}\}\$ self-energy
+  of the electron gas.
+\newblock \emph{Physical Review B}, 57\penalty0 (4):\penalty0 2108--2117,
+  January 1998.
+\newblock \doi{10.1103/PhysRevB.57.2108}.
+\newblock URL \url{https://link.aps.org/doi/10.1103/PhysRevB.57.2108}.
+\newblock Publisher: American Physical Society.
+
+\bibitem[Lange and Berkelbach(2018)]{Lange_2018}
+Malte~F. Lange and Timothy~C. Berkelbach.
+\newblock On the relation between equation-of-motion coupled-cluster theory and
+  the gw approximation.
+\newblock \emph{Journal of Chemical Theory and Computation}, 14\penalty0
+  (8):\penalty0 4224–4236, July 2018.
+\newblock ISSN 1549-9626.
+\newblock \doi{10.1021/acs.jctc.8b00455}.
+\newblock URL \url{http://dx.doi.org/10.1021/acs.jctc.8b00455}.
+
+\end{thebibliography}
